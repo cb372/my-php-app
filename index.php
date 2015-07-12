@@ -3,6 +3,6 @@
     <title>My legacy PHP app</title>
   </head>
   <body>
-    <?php echo '<p>Hello version 3</p>'; ?>
+    <?php echo '<p>Hello version 4</p>'; ?>
   </body>
 </html>
